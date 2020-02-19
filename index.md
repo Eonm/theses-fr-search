@@ -1,5 +1,7 @@
 <button name="button" onclick="addThesesFrSearch()">Ajouter le moteur de recherche theses.fr</button>
+<br>
 <button name="button" onclick="addStarSearch()">Ajouter le moteur de recherche star.theses.fr</button>
+<br>
 <button name="button" onclick="addStepSearch()">Ajouter le moteur de recherche step.theses.fr</button>
 
 <script>
