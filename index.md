@@ -1,7 +1,7 @@
-<button name="button" onclick="theses-fr-search">theses-fr-search</button>
+<button name="button" onclick="addThesesFrSearch()">Ajouter le moteur de recherche theses.fr</button>
 
 <script>
-  function theses-fr-search () { 
+  function addThesesFrSearch() { 
     window.external.AddSearchProvider("https://raw.githubusercontent.com/Eonm/theses-fr-search/master/theses-fr-search.xml");
   }; 
   
