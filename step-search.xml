@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Step</ShortName>
+<Description>Chercher sur step.theses.fr</Description>
+<Tags>theses</Tags>
+<Image height="16" width="16"> data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAU1JREFUeNpiZMADeo7ZGwApEN5QYnXwAzY1TAQ07wfi+UB8H8hvwKaOEZnDX7pHAUg51AY2bwDS54FYAU39BSBOBLrmAoYLgJoNoJrigbgei2YGqHf2Q10HBixImkHOFRDieQd2BRAfwGKAANSQ9UCsCDYAqFkA6k8QzfDnLwsowAqx+ff7FLn7QGoBEDeWIHmhAGoqGHz6zvcRT8SAwiYBFKhAwxpgBuQzEA+QDa8HGrKfCeokcoEC08duF5B/A4H4AVRQngQDGsHRCDRkw4RVyx1VXr9qxBF9DPPlkw2+febgRxI6wJnzaAELksD6nP17IYEpn/wfSH6AJhxY1H1gZvn7AClBBaInZUeoBHKcOyDF0ER2zt8wQx2Btn9AMSDx4dwPUEM2YPHBBaA8KNoKkTVj5AUk/zpAk7MDzEaoBaQBUMABsQA+NQABBgDtkGs7AHQicAAAAABJRU5ErkJggg==</Image>
+<Url type="text/html" method="get" template='https://step.theses.fr/sujets/rechercheAdmin.jsp?rechercheAdmin.jsp?q={searchTerms}'/><Image width="16" height="16" type="image/x-icon"></Image><InputEncoding>UTF-8</InputEncoding></OpenSearchDescription>
